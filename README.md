@@ -16,13 +16,14 @@ npm install vue-resource
 npm bootstrap-vue
 ```
 
-## Run
+# Run
 ### Go app
-Server with `DevURL` set in `config.json` will enable CORS headers from localhost:8888. Running the Vue client will automatically open the browser at http://localhost:8888/
+Server will enable CORS headers from localhost:8888. Running the Vue client will automatically open the browser at http://localhost:8888/
 ``` bash
 # Start API server at :8888
 quiz
 
+### Vue
 # Start Vue client with at :8080
 cd web/
 npm run dev
