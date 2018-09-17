@@ -11,7 +11,7 @@ cd web/
 npm install
 ```
 # Vue packages
-cd web/
+```cd web/
 npm install vue-resource
 npm bootstrap-vue
 ```
