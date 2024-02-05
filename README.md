@@ -3,18 +3,23 @@ A small app with Vue.js and GO
 
 ## Install
 ``` bash
-# Download and install this package
-go get github.com/gorilla/mux
+# Download and install Vue client NPM packages
+npm create vue@latest
+Done. Now run:
 
-# Download and install client NPM packages
-cd web/
+cd quiz
 npm install
+npm run format
+npm run dev
 ```
 # Vue packages
 ```cd web/
 npm install vue-resource
 npm bootstrap-vue
 ```
+
+# Download and install this package
+go get github.com/gorilla/mux
 
 # Run
 ### Go app
