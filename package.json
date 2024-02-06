@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "@fortawesome/vue-fontawesome": "^3.0.6",
-    "bootstrap": "^5.3.2"
+    "bootstrap": "^5.3.2",
+    "bootstrap-vue": "^2.23.1",
+    "vue": "^3.4.15"
   }
 }
